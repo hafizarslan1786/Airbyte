@@ -1,4 +1,0 @@
-pandas
-duckdb
-matplotlib
-duckdb-engine
